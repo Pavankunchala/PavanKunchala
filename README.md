@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Self-Driving Cars**
 
-- 🤝 I’m looking for opportunities in **Deep learning and Computer visio**
+- 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
 
 - 💬 Ask me about **DL,OpenCV,Machine learning**
 
