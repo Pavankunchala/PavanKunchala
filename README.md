@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavankunchalapk@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i3SQfElVy0tDDBsFqCixR-g9fV1l0Ydx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DHdxwYs8pt8tOWTH-N89rNc58ppYrC6W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
