@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavankunchalapk@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DHdxwYs8pt8tOWTH-N89rNc58ppYrC6W/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mj5IWmkkKajl8oSAPYtAL_GXUTAOwbXz/view?usp=sharing)
 
 - If you're generous enough you can always buy me a **coffee** from [here](https://www.buymeacoffee.com/pavankunchala)
 
