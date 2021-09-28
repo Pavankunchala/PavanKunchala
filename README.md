@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Kunchala</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning</h3>
 
-- 🔭 I’m currently working on [Human Pose Estimation](https://github.com/Pavankunchala/Human-Pose-Estimation-OpenCV)
+- 🔭 I’m currently working on [3D-Pose Estimation](https://github.com/Pavankunchala/Human-Pose-Estimation-OpenCV)
 
 - 🌱 I’m currently learning **Reinforcement learning and Computer vision**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavankunchalapk@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mj5IWmkkKajl8oSAPYtAL_GXUTAOwbXz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp9z8p5BfcNzH9VlaFu8Oe2KIHYVaFQ5/view?usp=sharing)
 
 - If you're generous enough you can always buy me a **coffee** from [here](https://www.buymeacoffee.com/pavankunchala)
 
