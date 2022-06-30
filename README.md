@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-reddy-kunchala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pavan-kumar-reddy-kunchala/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavan-kumar-reddy-kunchala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pavan-kumar-reddy-kunchala/" height="30" width="40" /></a>
 <a href="https://medium.com/@pavankunchalapk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pavankunchala" height="30" width="40" /></a>
 </p>
 
