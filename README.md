@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pavan Kunchala</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning</h3>
 
-- 🔭 I’m currently working on [3D-Pose Estimation](https://github.com/Pavankunchala/Human-Pose-Estimation-OpenCV)
+- 🔭 I’m currently working on **LLMS and Gen AI**
 
-- 🌱 I’m currently learning **Reinforcement learning and Computer vision**
-
-- 👯 I’m looking to collaborate on **Deep Learning and Computer vision Projects**
-
-- 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
 
 - 📝 I regularly write articles on [Medium](https://pavankunchalapk.medium.com/)
 
