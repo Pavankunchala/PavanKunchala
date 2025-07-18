@@ -21,7 +21,7 @@
 
 ### 🏆 Top Repository
 
-<a href="https://github.com/pavankunchala/YOLO_V4_DETECTION">
+<a href="https://github.com/Pavankunchala/LLM-Learn-PK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankunchala&repo=YOLO_V4_DETECTION&theme=radical" />
 </a>
 
